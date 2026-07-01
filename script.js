@@ -1,7 +1,7 @@
 const properties = [
   {
     id: "rumahA",
-    name: "Residensi Sempurna",
+    name: "Residensi",
     image: "images/sempurna.png",
     price: "RM 350,000",
     location: "Nilai, Negeri Sembilan",
@@ -16,7 +16,7 @@ const properties = [
   },
   {
     id: "rumahB",
-    name: "Residensi Alpinia",
+    name: "Residensi",
     image: "images/alpinia.jpg",
     price: "RM 400,000",
     location: "Nilai, Negeri Sembilan",
